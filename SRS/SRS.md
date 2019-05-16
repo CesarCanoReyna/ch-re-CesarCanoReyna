@@ -90,8 +90,9 @@ May 2019
 ## Overall description
 ### Business Managment Process
 * To the business process management we have the [Elicitation process](#Elicitation-process), of which a diagram was made:
-* Main diagram
 
+* Main diagram
+![GitHub Logo](/Employee.png)
 
 ### Product perspective 
   * Guide people through an application for smartphones through the different vivebus stations spread throughout Ciudad Juárez, for this it will be necessary to install on the smartphone and enable the GPS to connect to the app, it is important to take into account that only works on Android, to be more accurate from version 4.4.4 onwards.
