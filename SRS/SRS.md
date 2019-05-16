@@ -57,12 +57,13 @@ May 2019
 
 ## Introduction
 •	Purpose: 
-* This document is intended to publicize the general operation
-of the ViveBus software in Ciudad Juárez, is aimed at all users of this and every new member who goes on green public transport.
+* The purpose of this SRS is to provide the specifications of the application for Vivebus mobile devices, which will provide a better service to all people who approach this public transport and have a smart phone. The main objective is to inform the operation of the application not only to passengers, but also to anyone interested in boarding this transport.
 
 •	Scope: 
 * The name of the finish product it will be “ViveBus App”. 
 * The application should promote the benefits offered by the ViveBus application and offer a simple way to travel and get to know each of the stations picked up throughout the city.
+*In addition, new stops can be created in which every passenger of the vivebus descends.
+*The application will not be responsible for total theft or loss of smartphones.
 * The benefits of this application is that those interested have an easier way to find information about the stations, as well as to choose which station they go to, their main objective is to facilitate the way of traveling around the city.
 
 •	Definitions, acronyms, and abbreviations
