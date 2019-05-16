@@ -69,9 +69,12 @@ May 2019
 •	Definitions, acronyms, and abbreviations
 
 * ViveBus.- Bus Rapid Transit.
-*	App.- Application 
+*	App.- The term app is an abbreviation of the English voice application and tends to be used to refer to a computer application for mobile devices and tablets.
 *	UML.- Unified Modeling language 
 *	Mercedes Benz.- German company luxury vehicle manufacturer
+* Stakeholder.- Any person with an interest in the project.
+* Public transport.- Public transport includes the means of transport in which passengers are not the owners of the same, being served by third parties (public or private companies). Public transport helps the movement of people from one point to another in an area of a city, each person paying a set fee depending on their route.
+* 
 
 •	References
 * ....
