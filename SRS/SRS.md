@@ -89,7 +89,7 @@ May 2019
 
 ## Overall description
 ### Business Managment Process
-* To the business process management we have the Elicitation process, of which a diagram was made:
+* To the business process management we have the [Elicitation process](#Elicitation-process), of which a diagram was made:
 * Main diagram
 
 
