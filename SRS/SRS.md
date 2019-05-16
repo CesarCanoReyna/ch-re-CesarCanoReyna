@@ -66,7 +66,7 @@ May 2019
 * The application will not be responsible for total theft or loss of smartphones.
 * The benefits of this application is that those interested have an easier way to find information about the stations, as well as to choose which station they go to, their main objective is to facilitate the way of traveling around the city.
 
-•	Definitions, acronyms, and abbreviations
+### Definitions, acronyms, and abbreviations
 
 * ViveBus.- Bus Rapid Transit.
 *	App.- The term app is an abbreviation of the English voice application and tends to be used to refer to a computer application for mobile devices and tablets.
@@ -76,23 +76,27 @@ May 2019
 * Public transport.- Public transport includes the means of transport in which passengers are not the owners of the same, being served by third parties (public or private companies). Public transport helps the movement of people from one point to another in an area of a city, each person paying a set fee depending on their route.
 * GPS.- The GPS is a navigation system based on 24 satellites (21 operative and 3 backup), in orbit on the planet earth that sends information about the position of a person or object at any time and weather conditions.
 
-•	References
+### References
 * debitoor. (s.f.). debitoor. Obtenido de https://debitoor.es/glosario/app-movil
 * Significados. (31 de 10 de 2018). Significados. Obtenido de https://www.significados.com/gps/
 * smovilidad. (s.f.). smovilidad. Obtenido de https://smovilidad.edomex.gob.mx/transporte_publico
 
-•	Overview 
+### Overview 
 * Section 1.- Focused on the explanation, objectives, goals and description of the document.
 * Section 2.- General description of the system with information oriented to the client or end user
 * Section 3.- Specific requirements and specific terms for the development team
 * Section 4.- Appendices
 
 ## Overall description
+### Business Managment Process
+* To the business process management we have the Elicitation process, of which a diagram was made:
+Main diagram
 
-* Product perspective 
+
+### Product perspective 
   * Guide people through an application for smartphones through the different vivebus stations spread throughout Ciudad Juárez, for this it will be necessary to install on the smartphone and enable the GPS to connect to the app, it is important to take into account that only works on Android, to be more accurate from version 4.4.4 onwards.
 
-* Product functions 
+### Product functions 
   * Check the names of the stations.
   * Alarm to know in which station it is.
   * Show map of the city in real time.
@@ -101,7 +105,7 @@ May 2019
   * Away from doubts and improvements.
   * Show travel time.
 
-* User characteristics 
+### User characteristics 
 
 User  | Description
 ----- | -------------
@@ -110,14 +114,14 @@ Owner | Does not have to navigate in the application, its function will be to mo
 Employee | Can will have access to the data, being able to modify them and confirm that the information is valid, in addition to being in charge of locating the points of the stations on the map.
 
 
-* Constraints 
+### Constraints 
   * Have an Android 4.4.4 operating system onwards.
   * Only compatible with Android products
   * It is required to have the screen on at all times.
   * The application requires that the gps is always on.
   
   
-* Assumptions and dependencies
+### Assumptions and dependencies
   * The gps needs to be on all the time.
   * If you want to make the location calculate faster, you need internet connection.
   * A smartphone is required.
