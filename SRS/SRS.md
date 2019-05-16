@@ -62,8 +62,8 @@ May 2019
 •	Scope: 
 * The name of the finish product it will be “ViveBus App”. 
 * The application should promote the benefits offered by the ViveBus application and offer a simple way to travel and get to know each of the stations picked up throughout the city.
-*In addition, new stops can be created in which every passenger of the vivebus descends.
-*The application will not be responsible for total theft or loss of smartphones.
+* In addition, new stops can be created in which every passenger of the vivebus descends.
+* The application will not be responsible for total theft or loss of smartphones.
 * The benefits of this application is that those interested have an easier way to find information about the stations, as well as to choose which station they go to, their main objective is to facilitate the way of traveling around the city.
 
 •	Definitions, acronyms, and abbreviations
