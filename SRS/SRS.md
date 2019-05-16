@@ -56,7 +56,7 @@ May 2019
 
 
 ## Introduction
-•	Purpose: 
+••	Purpose: 
 * The purpose of this SRS is to provide the specifications of the application for Vivebus mobile devices, which will provide a better service to all people who approach this public transport and have a smart phone. The main objective is to inform the operation of the application not only to passengers, but also to anyone interested in boarding this transport.
 
 •	Scope: 
